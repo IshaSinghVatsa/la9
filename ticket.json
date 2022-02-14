@@ -1,0 +1,9 @@
+{"players":[
+    {"id":1, "name":"Football","price":200, "date":"12/2/19"},
+    {"id":2, "name":"Cricket","price":150, "date":"12/5/19"},
+    {"id":3, "name":"Volleyball","price":300, "date":"21/1/22"},
+    {"id":4, "name":"Badminton","price":200, "date":"10/2/21"},
+    {"id":5, "name":"Hockey","price":150, "date":"15/10/21"},
+    {"id":6, "name":"Tennis","price":250, "date":"13/11/19"},
+    {"id":7, "name":"Lawn Tennis","price":150, "date":"20/4/20"}
+]}
